@@ -16,24 +16,24 @@ The course is designed for a broad audience. All graduate students interested in
 
 ## Timeline
 
-| Week       | Topics          | Readings     | Activities      |
-| ---------- | ----------- | ------------- | ----------- |
-| 1. 01/19   | Introduction | *Optional*: Scardamalia & Bereiter (2003)  | Get familiar with KF; KF Discussion |
-| 2. 01/26   | A Brief Overview | Siemens (2013) | KF Discussion |
-| 3. 02/02   | What to Assess? |  |  |
-| 4. 02/09  | Exploring Hidden Assumptions |  |  |
-| 5. 02/16  | Cases and Examples 1 |  | Lighting talks |
-| 6. 02/23  | Educational Data Mining |  |  |
-| 7. 03/01  | Cases and Examples 2 |  | Lighting talks |
-| 8. 03/08  | Data Wrangling Hands-on |  | Online |
-| 9. 03/15  | *SPRING BREAK; NO CLASS* |  |  |
-| 10. 03/22 | SIG 1 |  |  |
-| 11. 03/29 | SIG 2 |  |  |
-| 12. 04/05 | SIG 3 |  |  |
-| 13. 04/12 | SIG 4 |  |  |
-| 14. 04/19 | SIG 5 |  |  |
-| 15. 04/26 | *LAK Conference, UK; NO CLASS* |  |  |
-| 16. 05/03 | WG Presentations and Reflection |  |  |
+| Week         | Topics          | Readings     | Activities      |
+| ------------ | ----------- | ------------- | ----------- |
+| 1. 1/19   | Introduction | *Optional*: Scardamalia & Bereiter (2003)  | Get familiar with KF; KF Discussion |
+| 2. 1/26   | A Brief Overview | Siemens (2013) | KF Discussion |
+| 3. 2/02   | What to Assess? |  |  |
+| 4. 2/09  | Exploring Hidden Assumptions |  |  |
+| 5. 2/16  | Cases and Examples 1 |  | Lighting talks |
+| 6. 2/23  | Educational Data Mining |  |  |
+| 7. 3/01  | Cases and Examples 2 |  | Lighting talks |
+| 8. 3/08  | Data Wrangling Hands-on |  | Online |
+| 9. 3/15  | *SPRING BREAK; NO CLASS* |  |  |
+| 10. 3/22 | SIG 1 |  |  |
+| 11. 3/29 | SIG 2 |  |  |
+| 12. 4/05 | SIG 3 |  |  |
+| 13. 4/12 | SIG 4 |  |  |
+| 14. 4/19 | SIG 5 |  |  |
+| 15. 4/26 | *LAK Conference, UK; NO CLASS* |  |  |
+| 16. 5/03 | WG Presentations and Reflection |  |  |
 
 ## Slides
 
