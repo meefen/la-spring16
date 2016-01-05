@@ -13,10 +13,10 @@ The course is designed for a broad audience. All graduate students interested in
 
 ## Timeline
 
-| Name | Description          |
-| ------------- | ----------- |
-| Help      | Display the help window.|
-| Close     | Closes a window     |
+| Week | Topics          | Readings     | Activities      |
+| ------------- | ----------- | ------------- | ----------- |
+| 1.       | Display the help window.|  |  |
+| 2.     | Closes a window     |  |  |
 
 ## Slides
 
