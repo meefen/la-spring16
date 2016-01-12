@@ -39,7 +39,7 @@ By the end of the course, students should:
 
 ### Guiding Philosophy
 
-This is a **Knowledge Building** course, which means all participants (including the instructor) are collectively producing ideas and knowledge as a community, to solve authentic learning analytics problems. Our top-level goal in this course will be to work as a knowledge building team, **living** and **exploring** the capacity of learning analytics in supporting growth in learning in different domains. This overarching goal will be interwoven throughout this course. We will advance this goal through analysis of readings, case studies, and innovative design.
+This is a *Knowledge Building* course, which means all participants (including the instructor) are collectively producing ideas and knowledge as a community, to solve authentic learning analytics problems. Our top-level goal in this course will be to work as a knowledge building team, *living* and *exploring* the capacity of learning analytics in supporting growth in learning in different domains. This overarching goal will be interwoven throughout this course. We will advance this goal through analysis of readings, case studies, and innovative design.
 
 ### Course Timeline
 
@@ -82,34 +82,34 @@ Your engagement with the course does not stop there! Use #LAUMN when you post on
 
 **SIG presentation**. Each SIG will design a session to engage the whole class in exploring a research theme in learning analytics. When one group presents, other groups will evaluate the presentation following a given rubric. Students in a same group get a same score.
 
-Each WG will tackle a real-world problem of their choice, and will be expected to produce a project artifact and present it to the whole class. A **WG project artifact** could be a design document, a research plan, or a functioning prototype depending on the problem chosen by the WG. (Each WG should come up with a tentative project proposal to discuss with the instructor by the end of Week 11.)
+Each WG will tackle a real-world problem of their choice, and will be expected to produce a project artifact and present it to the whole class. A **WG project artifact** could be a design document, a research plan, or a functioning prototype depending on the problem chosen by the WG. (Each WG should come up with a tentative project proposal to discuss with the instructor by the end of Week 11.) WG artifact due by May 3, 2016.
 **WG presentations** will be peer-assessed following a given rubric. Students in a same group get a same score.
 
-**Reflection essay or e-portfolio**. Students would have the choice between a reflective essay (not exceeding 2,000 words excluding references) or preparing an e-portfolio in Knowledge Forum reflecting on one's journey in the course. *Deadline: May 14, 2015*.
+**Reflection essay or e-portfolio**. Students would have the choice between a reflective essay (not exceeding 2,000 words excluding references) or preparing an e-portfolio in Knowledge Forum reflecting on one's journey in the course. *Deadline: May 14, 2016*.
 
-## Class Schedule Overview
+## Class Schedule Overview (Tentative)
 
 | Week | Date | Topics                          | Readings                                | Important Notes                     |
 |------|------|---------------------------------|-----------------------------------------|-------------------------------------|
 | 1    | 1/19 | Introduction                    | Optional: Scardamalia & Bereiter (2003) | Get familiar with KF                |
-| 2    | 1/26 | A Brief Overview                | Siemens 2013; Bienkowski, 2012          |                                     |
-| 3    | 2/02 | What to Assess?                 |                                         |                                     |
-| 4    | 2/09 | Exploring Hidden Assumptions    |                                         |                                     |
-| 5    | 2/16 | Cases and Examples 1            |                                         | Lighting talks                      |
-| 6    | 2/23 | Educational Data Mining         |                                         |                                     |
-| 7    | 3/01 | Cases and Examples 2            |                                         | Lighting talks                      |
-| 8    | 3/08 | Data Wrangling Hands-on         |                                         | Online                              |
+| 2    | 1/26 | A Brief Overview                | Siemens 2013; Bienkowski, 2012          | Start to explore WG group ideas     |
+| 3    | 2/02 | New Competencies                | Binkley 2012                            |                                     |
+| 4    | 2/09 | Learning Theory                 | Wise 2015                               | WG project ideas share-out          |
+| 5    | 2/16 | Hidden Assumptions              | Knight 2014                             |                                     |
+| 6    | 2/23 | Educational Data Mining         | Scheuer 2012; Baker 2009                | SIG and WG signup                   |
+| 7    | 3/01 | Cases and Examples              |                                         | Lighting talks                      |
+| 8    | 3/08 | "Fun with Data" Hands-on        |                                         | Purely online                       |
 | 9    | 3/15 | SPRING BREAK; NO CLASS          |                                         |                                     |
 | 10   | 3/22 | SIG 1                           |                                         |                                     |
 | 11   | 3/29 | SIG 2                           |                                         |                                     |
 | 12   | 4/05 | SIG 3                           |                                         |                                     |
 | 13   | 4/12 | SIG 4                           |                                         |                                     |
 | 14   | 4/19 | SIG 5                           |                                         |                                     |
-| 15   | 4/26 | LAK Conference, UK; NO CLASS    |                                         |                                     |
-| 16   | 5/03 | WG Presentations and Reflection |                                         |                                     |
+| 15   | 4/26 | Working on WG projects; NO CLASS|                                         |                                     |
+| 16   | 5/03 | WG Presentations and Reflection |                                         | WG project artifact due by May 3 <br>Reflective essay due by May 14 |
 
 
-## Schedule and *Tentative* Weekly Readings and Activities
+## Class Schedule with Weekly Readings and Activities
 
 ### Week 1: Introduction
 
@@ -131,8 +131,8 @@ Readings
 - (optional) Shum, S. B. (2012). [UNESCO Policy Brief: Learning Analytics](http://www.iite.unesco.org/publications/3214711/). Technical Report, UNESCO Institute for Information Technologies in Education.
 
 Activities
-- KF Discussion: Discuss readings in KF
-- Start thinking about your WG projects
+- KF Discussion: What is (or are) learning analytics? What isn't?
+- Start to explore WG group ideas
 
 ### Week 3: What to Assess: "New Competencies" in the Knowledge Age
 
@@ -145,18 +145,19 @@ Readings
 Activities
 
 - Watch video [Ken Robinson: Changing education paradigms](http://www.ted.com/talks/ken_robinson_changing_education_paradigms)
-- KF Discussion
-  - What are the important competencies you wish to assess? Can you think of how? Where are the gaps?
+- KF Discussion: What are the important competencies you wish to assess? Can you think of how? Where are the gaps?
 
 
 ### Week 4: Learning Theory and Learning Analytics
 
 Readings
 
-- Friend Wise, A., & Williamson Schaffer, D. (2015). [Why theory matters more than ever in the age of big data](http://epress.lib.uts.edu.au/journals/index.php/JLA/article/view/4677/5095). Journal of Learning Analytics, 2(2), 5–13. doi:10.18608/jla.2015.22.2
+- Wise, A. F., & Schaffer, D. W. (2015). [Why theory matters more than ever in the age of big data](http://epress.lib.uts.edu.au/journals/index.php/JLA/article/view/4677/5095). Journal of Learning Analytics, 2(2), 5–13. doi:10.18608/jla.2015.22.2
 
 Activities
-- KF discussion
+
+- KF discussion: What roles learning theory plays in analysis of learning data and in application of learning analytics?
+- WG project ideas share-out
 
 ### Week 5: Explore Hidden Assumptions: Epistemology, Pedagogy, Assessment, and Learning across Levels
 
@@ -165,7 +166,7 @@ Activities
 
 Activities
 - Virtual meeting with Guest Speaker 1
-- KF discussion
+- KF discussion: What assumptions do you take in your research or practice? How to debunk them when designing learning analytics?
 
 ### Week 6: Educational Data Mining: An Overview
 
@@ -177,7 +178,7 @@ Readings
 
 Activities
 - SIG and WG signup; 2-3 students per group
-- KF discussion
+- KF discussion: What data mining techniques would be useful for your work? How?
 
 ### Week 7: Cases and Examples of Learning Analytics
 
@@ -185,14 +186,15 @@ Readings:
 
 - Arnold, K.E. (2010). [Signals: Applying academic analytics](http://www.educause.edu/ero/article/signals-applying-academic-analytics). Educause Quarterly, 33, 1-10.
 - Wolff, A., & Zdrahal, Z. (2012). [Improving Retention by Identifying and Supporting "At-Risk" Students](http://www.educause.edu/ero/article/improving-retention-identifying-and-supporting-risk-students). EDUCAUSE Review Online.
+- ...
 
 Activities
-- Guest Speaker 2
-- KF Discussion
+- Lighting Talks given by students
+- KF Discussion: Did you find any use cases or examples of learning analytics interesting? Why?
 
-### Week 8: Data Wrangling Hands-on
+### Week 8: "Fun with Data" Hands-on (Online)
 
-Pre-class activities:
+Online activities:
 
 - Watch: [Tony Hirst's talk](https://www.youtube.com/watch?v=D6t4eztDveU#t=2182)
 - Readings
@@ -201,19 +203,17 @@ Pre-class activities:
   - (optional) Clow, D. (2014). [Data wranglers: Human interpreters to help close the feedback loop](http://dl.acm.org/citation.cfm?id=2567603). In Proceedins of the Fourth International Conference on Learning Analytics And Knowledge - LAK ’14 (pp. 49–53). doi:10.1145/2567574.2567603
 - Install: [Data Science Studio (DSS)](http://www.dataiku.com/dss/trynow/)
 
-Suggested tools and tutorials if you want to explore
+Tools and tutorials if you want to explore
+
 - Spreadsheets ([tutorial](https://datapatterns.readthedocs.org/en/latest/recipes/cleaning-data-with-spreadsheets.html))
 - R ([tutorial](https://ramnathv.github.io/pycon2014-r/explore/README.html))
 - [Open Refine](http://openrefine.org/) ([tutorials](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources), [more by Hirst](http://blog.ouseful.info/tag/openrefine-2/))
 - [Data Science Studio](http://www.dataiku.com/dss/) ([tutorials](http://doc.dataiku.com/dss/latest/tutorials/index.html))
-- Tableau
 - [Elastic](https://www.elastic.co/)
 - [Oinoi](http://oinoi.com/)
+- Tableau
+- [Overview](https://blog.overviewdocs.com/)
 
-Activities
-
-- Guest Speaker 3
-- Data wrangling hands-on
 
 ### Week 9: Spring Break; NO CLASS
 
@@ -284,9 +284,9 @@ Suggested Readings
 Activities: To be designed by SIG 5
 
 
-### Week 15: WG Working on the Final Project; NO CLASS Meeting
+### Week 15: Working on the WG Project; NO CLASS MEETING
 
-Virtual consultation with the instructor, if needed
+Consultation with the instructor, if needed.
 
 ### Week 16: WG Presentations and Reflection
 
@@ -295,7 +295,8 @@ Activities
 - WGs present their group projects
 - Reflection and celebration!
 
-__Final individual reflection assignment & the WG project artifact due by May 14, 2015.__
+__WG project artifact due by May 03, 2016__  
+__Reflective essay due by May 14, 2016.__
 
 ___
 
