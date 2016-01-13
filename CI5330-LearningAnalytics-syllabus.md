@@ -109,6 +109,12 @@ Each WG will tackle a real-world problem of their choice, and will be expected t
 | 16   | 5/03 | WG Presentations and Reflection |                                         | WG project artifact due by May 3 <br>Reflective essay due by May 14 |
 
 
+SIG Topics
+
+- Visual analytics
+- Educator practice of learning analytics
+
+
 ## Class Schedule with Weekly Readings and Activities
 
 ### Week 1: Introduction
@@ -214,6 +220,10 @@ Tools and tutorials if you want to explore
 - Tableau
 - [Overview](https://blog.overviewdocs.com/)
 
+Datasets
+
+- [http://labrosa.ee.columbia.edu/millionsong/lastfm](LastFM)
+- [StackExchange](https://archive.org/details/stackexchange)
 
 ### Week 9: Spring Break; NO CLASS
 
@@ -252,6 +262,7 @@ Suggested Readings
 - Optional
   - Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76.
   - Simsek, D., Buckingham Shum, S., Sandor, A., De Liddo, A., and Ferguson, R. (2013). Xip dashboard: visual analytics from automated rhetorical parsing of scientific metadiscourse. In 1st International Workshop on Discourse-Centric Learning Analytics.
+  - [Trump to Shakespeare](http://www.infowetrust.com/trump/)
 
 Activities: To be designed by SIG 3
 

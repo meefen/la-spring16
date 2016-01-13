@@ -2,3 +2,6 @@ _private/
 .DS_Store
 .Rproj.user
 *.docx
+*.Rproj
+.Rhistory
+
