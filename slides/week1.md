@@ -13,10 +13,13 @@ About the Course
 ========================================================
 incremental: true
 
-- *One* of the first courses in Learning Analytics
-- *Second* time offered at the U
-- *Three* departments represented last year (C&I, Ed Psych, CS)
-- **_May_ the _4th_ (force) be with you :)**
+- **One** of the first courses in Learning Analytics (LA)
+  - [Big Data in Education](https://www.coursera.org/course/bigdata-edu) MOOC, Ryan Baker
+  - [Data, Analytics, and Learning](https://courses.edx.org/courses/UTArlingtonX/LINK5.10x/) MOOC, George Siemens, et al.
+  - (Use them as additional resources!)
+- **Second** iteration at the U
+- **Three** departments represented last year (C&I, Ed Psych, CS)
+- _**May** the **4th** (force) be with you :)_
 
 About Myself
 ========================================================
@@ -30,23 +33,15 @@ About Myself
   - social media
 - (An R hacker + a fan of reproducible research)
 
-
 <div class="footer">More on <a href="http://meefen.github.io/">http://meefen.github.io/</a></div>
 
 Introduction
 ========================================================
-title: false
 type: prompt
 
-![](http://tollydollyposhfashion.com/wp-content/uploads/2015/01/Lets-get-to-know-each-other.jpg)
+![](http://cuteanimalpicturesandvideos.com/wp-content/uploads/bear.jpg)
 
-Course Syllabus (tentative)
-========================================================
-type: section
-
-- https://github.com/meefen/la-spring16
-
-Learning Analytics as a Field
+Learning Analytics as a (Young) Field
 ========================================================
 
 ![](week1-figure/cropped-solar-logo1.png)
@@ -55,62 +50,121 @@ Learning Analytics as a Field
 - First summer institute: 2013, Stanford University
 - First issue of its journal: 2014
 
+![](http://lak16.solaresearch.org/wp-content/uploads/2015/10/lak16_new_vita_fix_acm2.jpg)
+
+Learning Analytics as a Field (cont'd)
+========================================================
+
+Google Scholar search - exact phrase
+
+| Year        | Count |
+|-------------|-------|
+| - 2010      | 201   |
+| 2010 - 2011 | 342   |
+| 2011 - 2012 | 1,060 |
+| 2012 - 2013 | 2,250 |
+| 2013 - 2014 | 3,950 |
+| 2014 - 2015 | 5,160 |
+| 2015 - 2016 | 2,300 |
+
+Learning Analytics as a Field (cont'd)
+========================================================
+
+Scopus search: TITLE-ABS-KEY ( "learning analytics" )
+
+![](week1-figure/scopus-year.png)
+
+Learning Analytics as a Field (cont'd)
+========================================================
+
+![](week1-figure/scopus-subject.png)
+
+Learning Analytics as a Field (cont'd)
+========================================================
+
+![](week1-figure/scopus-country.png)
+
+Learning Analytics as a Field (cont'd)
+========================================================
+
+![](week1-figure/scopus-affiliation.png)
+
 Learning Analytics as a Field (cont'd)
 ========================================================
 ![](week1-figure/lak-sankey.png)
 
-Unpacking Learning Analytics
+Unpacking LA
 ========================================================
 type: section
 
-Contrasts
+Important Distinctions
 ========================================================
 incremental: true
 
 - learning analytics vs. analysis of learning data
+- analytics vs. quantitative
 - big vs. small / rich vs. poor
+- analytics vs. objective
 
+
+Course Portal
+========================================================
+type: section
+
+- Link: https://github.com/meefen/la-spring16
+- Syllabus (tentative)
+  - constantly updated
+- Slides
 
 A Knowledge Building Class
 ========================================================
+incremental: true
 
 What does it mean?
 
 - collective responsibility
 - community discourse
-- solving authentic problems (vs. learning a technique)
+- solving authentic problems (vs. acquiring some knowledge)
 - production of something new
 
-Themes
+So...
+- You're in the driver's seat
+- You're responsible to each other
+
+Possible Themes for SIGs
 ========================================================
 
-- Learning and Knowledge Growth
+- Assessment of Domain Knowledge
 - Social Networks
 - Mining of Text and Discourse
 - Temporality in Learning
 - Prediction and Intervention
-- ?
+- Recommender Systems
+- Visual Analytics
+- Educator Practice
+- ...
 
-KF Demo
+WG Projects
+========================================================
+
+Examples:
+- xAPI/Tin Can (Recording traces of corporate learning)
+- The "Bridge" (Bridging Stackoverflow with RStudio)
+- Data Visualization
+- LA & Pre-Service Teacher
+
+Knowledge Forum demo
+========================================================
+type: section
+
+- Link: http://bit.ly/kf-6
+- New account
+- Register for our community
+- *Views*
+- *Notes*: posting, scaffolds, building on, referencing, annotation
+- Personal workspace
+- (Google Chrome is the recommended browser)
+
+Questions?
 ========================================================
 type: prompt
-
-[Knowledge Forum](http://kf.utoronto.ca:8080/kforum/home.xhtml)
-
-Other Courses on Learning Analytics
-========================================================
-
-- [Big Data in Education](https://www.coursera.org/course/bigdata-edu), Ryan Baker
-- [Data, Analytics, and Learning](https://courses.edx.org/courses/UTArlingtonX/LINK5.10x/), George Siemens, et al.
-
-How is this course different from other courses?
-
-Use them as additional resources!
-
-Logistics
-========================================================
-
-- Move to Rm 210F
-- Starting from 5pm??
-
-
