@@ -97,6 +97,10 @@ Unpacking LA
 ========================================================
 type: section
 
+Collaborative Drawing (5 min)
+
+- http://bit.ly/unpackla
+
 Important Distinctions
 ========================================================
 incremental: true
@@ -165,6 +169,16 @@ type: section
 - Personal workspace
 - (Google Chrome is the recommended browser)
 
-Questions?
+Week 2: A Brief Overview
 ========================================================
-type: prompt
+
+Readings
+
+- [Siemens, 2013)](http://abs.sagepub.com/content/57/10/1380)
+- [Bienkowski et al., 2012](http://tech.ed.gov/wp-content/uploads/2014/03/edm-la-brief.pdf) __(Only pp. 25-36)__
+- (optional) [Buckingham Shum, 2012](http://www.iite.unesco.org/publications/3214711/)
+
+Activities
+- KF Discussion: What is (or are) learning analytics? What isn't?
+- Start to explore WG group ideas
+
