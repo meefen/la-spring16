@@ -54,9 +54,8 @@ The class will use the **final weeks** to further advance our designs and crea
 [Knowledge Forum (KF)](http://bit.ly/kf-6): Our knowledge space for collaborative discussions and inquiry
 
 - Create a new account, using the Account Creation Key `kcreation`
-- Join the "Learning Analytics - Spring'16" community using the access code: `la16` (see the screenshot below)
-
-![](./slides/imgs/kf-reg.png)
+- Join the "Learning Analytics - Spring'16" community using the access code shared by the instructor
+- Check out the [KF6 video tutorials](https://www.youtube.com/playlist?list=PLNdwjAw9WQK0keMvP4YBCQxmIIzXAYqnK)
 
 Your engagement with the course does not stop there! Use #LAUMN when you post on social media (e.g., Twitter, Facebook, Google+). Send the instructor your RSS feed if you blog. Social media pulses related to the course will be aggregated on the [LAUMN Social Media Dashboard](http://www.netvibes.com/laumn).
 
