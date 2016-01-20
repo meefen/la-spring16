@@ -86,33 +86,6 @@ Each WG will tackle a real-world problem of their choice, and will be expected t
 
 **Reflection essay or e-portfolio**. Students would have the choice between a reflective essay (not exceeding 2,000 words excluding references) or preparing an e-portfolio in Knowledge Forum reflecting on one's journey in the course. *Deadline: May 14, 2016*.
 
-## Class Schedule Overview (Tentative)
-
-| Week | Date | Topics                          | Readings                                | Important Notes                     |
-|------|------|---------------------------------|-----------------------------------------|-------------------------------------|
-| 1    | 1/19 | Introduction                    | Optional: Scardamalia & Bereiter (2003) | Get familiar with KF                |
-| 2    | 1/26 | A Brief Overview                | Siemens 2013; Bienkowski, 2012          | Start to explore WG group ideas     |
-| 3    | 2/02 | New Competencies                | Binkley 2012                            |                                     |
-| 4    | 2/09 | Learning Theory                 | Wise 2015                               | WG project ideas share-out          |
-| 5    | 2/16 | Hidden Assumptions              | Knight 2014                             |                                     |
-| 6    | 2/23 | Educational Data Mining         | Scheuer 2012; Baker 2009                | SIG and WG signup                   |
-| 7    | 3/01 | Cases and Examples              |                                         | Lighting talks                      |
-| 8    | 3/08 | "Fun with Data" Hands-on        |                                         | Purely online                       |
-| 9    | 3/15 | SPRING BREAK; NO CLASS          |                                         |                                     |
-| 10   | 3/22 | SIG 1                           |                                         |                                     |
-| 11   | 3/29 | SIG 2                           |                                         |                                     |
-| 12   | 4/05 | SIG 3                           |                                         |                                     |
-| 13   | 4/12 | SIG 4                           |                                         |                                     |
-| 14   | 4/19 | SIG 5                           |                                         |                                     |
-| 15   | 4/26 | Working on WG projects; NO CLASS|                                         |                                     |
-| 16   | 5/03 | WG Presentations and Reflection |                                         | WG project artifact due by May 3 <br>Reflective essay due by May 14 |
-
-
-SIG Topics
-
-- Visual analytics
-- Educator practice of learning analytics
-
 
 ## Class Schedule with Weekly Readings and Activities
 
@@ -139,7 +112,7 @@ Activities
 - KF Discussion: What is (or are) learning analytics? What isn't?
 - Start to explore WG group ideas
 
-### Week 3: What to Assess: "New Competencies" in the Knowledge Age
+### Week 3: What to Assess: "Higher Order Competencies" in the Knowledge Age
 
 Readings
 
@@ -286,10 +259,10 @@ Activities: To be designed by SIG 4
 Suggested Readings
 
 - Usamah bin Mat, Norlida Buniyamin, Pauziah Mohd Arsad, RosniAbu Kassim (2013). An Overview of Using Academic Analytics to Predict and Improve Students' Achievement: A Proposed Proactive Intelligent Intervention. IEEE 5th Conference on Engineering Education (ICEED) http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6908316&tag=1
-- Pardos, Z.A., Baker, R.S.J.d., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (2013). Affective states and state tests: Investigating how affect throughout the school year predicts end of year learning outcomes. In Proceedings of the 3rd International Conference on Learning Analytics and Knowledge. http://www.columbia.edu/~mzs2106/research/LAK2013.pdf 
-- Nguyen Thai-Nghe , Lucas Drumond, Tomas Horvath, and Lars Schmidt-Thieme (2012). Using Factorization Machines for Student Modeling. http://ceur-ws.org/Vol-872/factmod2012_paper_4.pdf 
+- Pardos, Z.A., Baker, R.S.J.d., San Pedro, M.O.C.Z., Gowda, S.M., Gowda, S.M. (2013). Affective states and state tests: Investigating how affect throughout the school year predicts end of year learning outcomes. In Proceedings of the 3rd International Conference on Learning Analytics and Knowledge. http://www.columbia.edu/~mzs2106/research/LAK2013.pdf
+- Nguyen Thai-Nghe , Lucas Drumond, Tomas Horvath, and Lars Schmidt-Thieme (2012). Using Factorization Machines for Student Modeling. http://ceur-ws.org/Vol-872/factmod2012_paper_4.pdf
 - Manuel Ángel Jiménez-Gómez, José María Luna, Cristóbal Romero, Sebastián Ventura (2015). Discovering Clues to Avoid Middle School Failure at Early Stages.In Proceedings of the 5th International Conference on Learning Analytics and Knowledge. http://dl.acm.org/citation.cfm?id=2723597&CFID=475348647&CFTOKEN=18794396
-- Asmaa Elbadrawy, R. Scott Studham, George Karypis (2015). Collaborative Multi-Regression Models for Predicting Students’ Performance in Course Activities.In Proceedings of the 5th International Conference on Learning Analytics and Knowledge. http://dl.acm.org/citation.cfm?id=2723590&CFID=475348647&CFTOKEN=18794396 
+- Asmaa Elbadrawy, R. Scott Studham, George Karypis (2015). Collaborative Multi-Regression Models for Predicting Students’ Performance in Course Activities.In Proceedings of the 5th International Conference on Learning Analytics and Knowledge. http://dl.acm.org/citation.cfm?id=2723590&CFID=475348647&CFTOKEN=18794396
 
 Activities: To be designed by SIG 5
 
@@ -354,7 +327,7 @@ During the course, feedback will be returned to students as soon as possible via
 
 ### Disabilities
 
-The University of Minnesota is committed to providing equitable access to learning opportunities for all students.  The Disability Resource Center (DRC) is the campus office that collaborates with students who have disabilities to provide and/or arrange reasonable accommodations. 
+The University of Minnesota is committed to providing equitable access to learning opportunities for all students.  The Disability Resource Center (DRC) is the campus office that collaborates with students who have disabilities to provide and/or arrange reasonable accommodations.
 
 - If you have, or think you may have, a disability (e.g., mental health, attentional, learning, chronic health, sensory, or physical), please contact the DRC at 612-626-1333 to arrange a confidential discussion regarding equitable access and reasonable accommodations.
 - If you are registered with the DRC and have a current letter requesting reasonable accommodations, we encourage you to contact your instructor early in the semester to review how the accommodations will be applied in the course.
@@ -363,5 +336,4 @@ Additional information is available on the DRC website: https://diversity.umn.ed
 
 ### Mental Health
 
-As a student you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduce your ability to participate in daily activities. University of Minnesota services are available to assist you with addressing these and other concerns you may be experiencing.  You can learn more about the broad range of confidential mental health services available on campus via http://www.mentalhealth.umn.edu 
-
+As a student you may experience a range of issues that can cause barriers to learning, such as strained relationships, increased anxiety, alcohol/drug problems, feeling down, difficulty concentrating and/or lack of motivation. These mental health concerns or stressful events may lead to diminished academic performance or reduce your ability to participate in daily activities. University of Minnesota services are available to assist you with addressing these and other concerns you may be experiencing.  You can learn more about the broad range of confidential mental health services available on campus via http://www.mentalhealth.umn.edu

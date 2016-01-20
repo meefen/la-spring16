@@ -9,7 +9,7 @@ css: custom.css
 Bodong Chen  
 January 19, 2016
 
-About the Course
+Five Things About the Course
 ========================================================
 incremental: true
 
@@ -65,7 +65,9 @@ Google Scholar search - exact phrase
 | 2012 - 2013 | 2,250 |
 | 2013 - 2014 | 3,950 |
 | 2014 - 2015 | 5,160 |
-| 2015 - 2016 | 2,300 |
+| 2015 - 2016 | 2,300^* |
+
+_*: Explanations?_
 
 Learning Analytics as a Field (cont'd)
 ========================================================
@@ -93,6 +95,8 @@ Learning Analytics as a Field (cont'd)
 ========================================================
 ![](week1-figure/lak-sankey.png)
 
+<div class="footer"><a href="http://meefen.github.io/blog/2014/10/14/twitter-archeology/">Source</a></div>
+
 Unpacking LA
 ========================================================
 type: section
@@ -100,6 +104,21 @@ type: section
 Collaborative Drawing (5 min)
 
 - http://bit.ly/unpackla
+
+Unpacking LA - Results
+========================================================
+![](imgs/UnpackingLearningAnalytics.png)
+
+Alert: Traces you just left in G Drive...
+========================================================
+type: alert
+
+![](week1-figure/docs_190843b_revision_history_en.gif)
+
+- Were you aware of?
+- What questions you may answer with them?
+- How might you analyze them?
+- How might some "researcher" not present interept them?
 
 Important Distinctions
 ========================================================
