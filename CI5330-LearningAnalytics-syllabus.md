@@ -116,9 +116,8 @@ Activities
 
 Readings
 
-- Binkley, M., Erstad, O., Herman, J., Raizen, S., Riple, M., Miller-Ricci, M., and Rumble, M. (2012). Defining 21st century skills. In Griffin, P., McGaw, B., and Care, E., editors, [Assessment and Teaching of 21st Century Skills](http://www.springer.com/education+%26+language/book/978-94-017-9394-0), chapter 2, pages 17–66. Springer.
-- (optional) Shum, S. B. and Crick, R. D. (2012). [Learning dispositions and transferable competencies](http://oro.open.ac.uk/32823/). In Proceedings of the 2nd International Conference on Learning Analytics and Knowledge - LAK ’12, page 92, New York, New York, USA. ACM Press.
-- (optional) Dawson, S. and Siemens, G. (2014). [Analytics to literacies: The development of a learning analytics framework for multiliteracies assessment](http://www.irrodl.org/index.php/irrodl/article/view/1878/3006). International Review of Research in Open and Distance Learning, 15(4):284–305.
+- Scardamalia, M., Bransford, J. D., Kozma, B., & Quellmalz, E. (2012). New Assessments and Environments for Knowledge Building. In Assessment and Teaching of 21st Century Skills (pp. 231–300). Springer. doi:10.1007/978-94-007-2324-5_5
+- (optional) Shum, S. B., & Ferguson, R. (2012). [Social learning analytics](http://www.jstor.org/stable/jeductechsoci.15.3.3?seq=1#page_scan_tab_contents). Educational Technology and Society, 15(3), 3–26.
 
 Activities
 

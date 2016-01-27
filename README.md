@@ -13,7 +13,7 @@
 |------|------|---------------------------------|-----------------------------------------|-------------------------------------|
 | 1    | 1/19 | Introduction                    | Optional: Scardamalia & Bereiter (2003) | Get familiar with KF                |
 | 2    | 1/26 | A Brief Overview                | Siemens 2013; Bienkowski, 2012          | **Online**; start to explore WG group ideas     |
-| 3    | 2/02 | Higher order Competencies       | Binkley 2012                            |                                     |
+| 3    | 2/02 | Higher order Competencies       | Scardamalia 2012                        |                                     |
 | 4    | 2/09 | Learning Theory                 | Wise 2015                               | **Online**; WG project ideas share-out          |
 | 5    | 2/16 | Hidden Assumptions              | Knight 2014                             |                                     |
 | 6    | 2/23 | Educational Data Mining         | Scheuer 2012; Baker 2009                | **Online**; SIG and WG signup                   |
@@ -32,6 +32,7 @@
 ## Slides
 
 - [Week 1](https://meefen.github.io/la-spring16/slides/week1.html)
+- [Week 2](https://meefen.github.io/la-spring16/slides/week2.html)
 
 ## Knowledge Forum
 

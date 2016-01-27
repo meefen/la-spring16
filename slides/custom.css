@@ -5,6 +5,7 @@
     top: 90%;
     text-align:center;
     width:100%;
+    font-size: 8px;
 }
 .midcenter {
     position: fixed;
@@ -26,6 +27,7 @@
 .reveal h1 {
   word-wrap: normal;
   -moz-hyphens: none;
+  font-size: 60px;
 }
 
 .reveal section del {
