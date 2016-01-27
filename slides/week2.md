@@ -93,7 +93,7 @@ CanvasNet as An Example...
 
 [Canvas](https://canvas.instructure.com/): a rising Learning Management System (LMS)
 
-![](https://mashe.hawksey.info/wp-content/uploads/2013/02/image12.png)
+<img src="https://mashe.hawksey.info/wp-content/uploads/2013/02/image12.png" width=400>
 
 **CanvasNet**: an analytics tool aiming to provide students with feedback on their social and conceptual engagement
 
@@ -122,12 +122,11 @@ Storage, cleaning & integration
 ![](https://mashe.hawksey.info/wp-content/uploads/2013/02/image14.png)
 
 - Not much cleaning or integration
-- Much 
 
 Exploration & Analysis
 ========================================================
 
-- **R**
+- **R** (a statistical programming language)
   - read data from Google Sheet
   - social network analysis: `sna` and `igraph` packages
   - text analysis: `tm` package
@@ -156,7 +155,7 @@ Action
 An iterative cycle
 
 
-Week 3
+Week 3: Higher order Competencies
 ========================================================
 
 Readings
@@ -182,6 +181,4 @@ Housekeeping
 
 Updates on SIGs and WGs?
 
-Group sign-up
-
-- [link](https://docs.google.com/spreadsheets/d/17pzgl0QY7D-47y777PkOkAMT_s3vCGS5xPYXKKfAk2U/edit)
+[Group sign-up](https://docs.google.com/spreadsheets/d/17pzgl0QY7D-47y777PkOkAMT_s3vCGS5xPYXKKfAk2U/edit) (feel free to put down your names)
