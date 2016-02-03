@@ -130,6 +130,8 @@ Activities
 Readings
 
 - Wise, A. F., & Schaffer, D. W. (2015). [Why theory matters more than ever in the age of big data](http://epress.lib.uts.edu.au/journals/index.php/JLA/article/view/4677/5095). Journal of Learning Analytics, 2(2), 5–13. doi:10.18608/jla.2015.22.2
+- Anderson, C. (2008, June). The end of theory: The data deluge makes the scientific method obsolete. Wired. Retrieved from http://www.wired.com/2008/06/pb-theory/
+- (optional) Schneider, B., & Pea, R. (2015). [Does seeing one another’s gaze affect group dialogue A computational approach](http://epress.lib.uts.edu.au/journals/index.php/JLA/article/view/4260). Journal of Learning Analytics, 2(2), 107–133. doi:10.18608/jla.2015.22.9
 
 Activities
 
@@ -215,6 +217,7 @@ Suggested Readings
 - Grunspan, D. Z., Wiggins, B. L., & Goodreau, S. M. (2014). Understanding classrooms through social network analysis: A primer forsocial network analysis in education research. CBE-Life Sciences Education, 13(2), 167-178.
 - Haythornthwaite, C. (1996). Social network analysis: An approach and technique for the study of information exchange. Library & Information Science Research, 18(4):323–342.
 - Oshima, J., Oshima, R., and Matsuzawa, Y. (2012). Knowledge Building Discourse Explorer: a social network analysis application for knowledge building discourse. Educational Technology Research and Development, 60(5):903–921.
+- [COINs](https://sites.google.com/site/coincourse2015/presentations)
 
 SIG website developed by former students: [https://sites.google.com/a/umn.edu/social-network-analysis/](https://sites.google.com/a/umn.edu/social-network-analysis/)
 
@@ -279,6 +282,11 @@ Activities
 
 __WG project artifact due by May 03, 2016__  
 __Reflective essay due by May 14, 2016.__
+
+## Other Readings
+
+- Slade, S., & Prinsloo, P. (2013). Learning analytics: Ethical issues and dilemmas. _American Behavioral Scientist, 57_(10), 1510–1529. doi:10.1177/0002764213479366
+- Suthers, D., & Verbert, K. (2013). Learning analytics as a “middle space.” In _Proceedings of the Third International Conference on Learning Analytics and Knowledge - LAK ’13 (pp. 1–4)_. New York, New York, USA: ACM Press. doi:10.1145/2460296.2460298
 
 ___
 
