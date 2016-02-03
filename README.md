@@ -33,6 +33,7 @@
 
 - [Week 1](https://meefen.github.io/la-spring16/slides/week1.html)
 - [Week 2](https://meefen.github.io/la-spring16/slides/week2.html)
+- [Week 3](https://meefen.github.io/la-spring16/slides/week3.html)
 
 ## Knowledge Forum
 
