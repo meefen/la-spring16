@@ -107,6 +107,7 @@ Readings
 - Siemens, G. (2013). [Learning Analytics: The Emergence of a Discipline](http://abs.sagepub.com/content/57/10/1380). American Behavioral Scientist, 0002764213498851. doi:10.1177/0002764213498851
 - Bienkowski, M., Feng, M., & Means, B. (2012). [Enhancing teaching and learning through educational data mining and learning analytics](http://tech.ed.gov/wp-content/uploads/2014/03/edm-la-brief.pdf). Washington, DC: U.S. Department of Education. __(Only pp. 25-36)__
 - (optional) Shum, S. B. (2012). [UNESCO Policy Brief: Learning Analytics](http://www.iite.unesco.org/publications/3214711/). Technical Report, UNESCO Institute for Information Technologies in Education.
+- (optional) Slade, S., & Prinsloo, P. (2013). Learning analytics: Ethical issues and dilemmas. American Behavioral Scientist, 57(10), 1510–1529. doi:10.1177/0002764213479366
 
 Activities
 - KF Discussion: What is (or are) learning analytics? What isn't?
@@ -246,17 +247,8 @@ Suggested Tools
 - Coh-Metrix
 - [ProM](http://www.processmining.org/prom/start) - process mining
 
-### Week 13: Temporality in Learning (theme 4)
 
-Suggested Readings
-
-- Reimann, P. (2009). Time is precious: Variable-and event-centred approaches to process analysis in CSCL research. International Journal of Computer-Supported Collaborative Learning, 4(3):239– 257.
-- Kinnebrew, J., Segedy, J., and Biswas, G. (2014). Analyzing the temporal evolution of students’ behaviors in open-ended learning environments. Metacognition and Learning, 9(2):187–215.
-- Magnusson, M. S. (2000). Discovering hidden time patterns in behavior: T-patterns and their detection. Behavior Research Methods, Instruments, & Computers, 32(1):93–110.
-
-Activities: To be designed by SIG 4
-
-### Week 14: Prediction and Intervention (theme 5)
+### Week 13: Prediction and Intervention
 
 Suggested Readings
 
@@ -267,6 +259,11 @@ Suggested Readings
 - Asmaa Elbadrawy, R. Scott Studham, George Karypis (2015). Collaborative Multi-Regression Models for Predicting Students’ Performance in Course Activities.In Proceedings of the 5th International Conference on Learning Analytics and Knowledge. http://dl.acm.org/citation.cfm?id=2723590&CFID=475348647&CFTOKEN=18794396
 
 Activities: To be designed by SIG 5
+
+### Week 14: Applying LA in Practice
+
+Readings and Activities TBD
+
 
 
 ### Week 15: Working on the WG Project; NO CLASS MEETING
@@ -287,6 +284,19 @@ __Reflective essay due by May 14, 2016.__
 
 - Slade, S., & Prinsloo, P. (2013). Learning analytics: Ethical issues and dilemmas. _American Behavioral Scientist, 57_(10), 1510–1529. doi:10.1177/0002764213479366
 - Suthers, D., & Verbert, K. (2013). Learning analytics as a “middle space.” In _Proceedings of the Third International Conference on Learning Analytics and Knowledge - LAK ’13 (pp. 1–4)_. New York, New York, USA: ACM Press. doi:10.1145/2460296.2460298
+
+___
+
+
+### Temporality in Learning
+
+Suggested Readings
+
+- Reimann, P. (2009). Time is precious: Variable-and event-centred approaches to process analysis in CSCL research. International Journal of Computer-Supported Collaborative Learning, 4(3):239– 257.
+- Kinnebrew, J., Segedy, J., and Biswas, G. (2014). Analyzing the temporal evolution of students’ behaviors in open-ended learning environments. Metacognition and Learning, 9(2):187–215.
+- Magnusson, M. S. (2000). Discovering hidden time patterns in behavior: T-patterns and their detection. Behavior Research Methods, Instruments, & Computers, 32(1):93–110.
+
+Activities: To be designed by SIG 4
 
 ___
 

@@ -17,14 +17,14 @@
 | 4    | 2/09 | Learning Theory                 | Wise 2015                               | **Online**; WG project ideas share-out          |
 | 5    | 2/16 | Hidden Assumptions              | Knight 2014                             |                                     |
 | 6    | 2/23 | Educational Data Mining         | Scheuer 2012; Baker 2009                | **Online**; SIG and WG signup                   |
-| 7    | 3/01 | Cases and Examples              |                                         | Lighting talks                      |
-| 8    | 3/08 | "Fun with Data" Hands-on        |                                         | **Online**                       |
+| 7    | 3/01 | Cases and Examples              |                                         | **Online**; V. Kovanovic guest lecture; Lighting talks                      |
+| 8    | 3/08 | "Fun with Data" Hands-on        |                                         | **Online**; E. Wang guest lecture                       |
 | 9    | 3/15 | SPRING BREAK; NO CLASS          |                                         |                                     |
-| 10   | 3/22 | SIG 1                           |                                         |                                     |
-| 11   | 3/29 | SIG 2                           |                                         |                                     |
-| 12   | 4/05 | SIG 3                           |                                         |                                     |
-| 13   | 4/12 | SIG 4                           |                                         |                                     |
-| 14   | 4/19 | SIG 5                           |                                         |                                     |
+| 10   | 3/22 | SIG 1 Learning and Knowledge Growth                          |                                         |                                     |
+| 11   | 3/29 | SIG 2 Social Networks                           |                                         |                                     |
+| 12   | 4/05 | SIG 3 Mining of Text and Discourse                           |                                         |                                     |
+| 13   | 4/12 | SIG 4 Prediction and Intervention                           |                                         |                                     |
+| 14   | 4/19 | SIG 5 Applying LA in Practice                           |                                         |                                     |
 | 15   | 4/26 | Working on WG projects; NO CLASS|                                         |                                     |
 | 16   | 5/03 | WG Presentations and Reflection |                                         | WG project artifact due by May 3 <br>Reflective essay due by May 14 |
 
@@ -34,6 +34,7 @@
 - [Week 1](https://meefen.github.io/la-spring16/slides/week1.html)
 - [Week 2](https://meefen.github.io/la-spring16/slides/week2.html)
 - [Week 3](https://meefen.github.io/la-spring16/slides/week3.html)
+- [Week 4](https://meefen.github.io/la-spring16/slides/week4.html)
 
 ## Knowledge Forum
 
