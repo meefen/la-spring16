@@ -153,7 +153,7 @@ Activities
 Readings
 
 - Scheuer, O. and McLaren, B. M. (2012). Educational data mining. In Encyclopedia of the Sciences of Learning, pages 1075–1079. Springer.
-- Baker, R.S.J.d., Yacef, K. (2009) The State of Educational Data Mining in 2009: A Review and Future Visions. Journal of Educational Data Mining, 1 (1), 3-17.
+- Baker, R.S.J.d., Yacef, K. (2009). The State of Educational Data Mining in 2009: A Review and Future Visions. Journal of Educational Data Mining, 1 (1), 3-17.
 - (optional) Resources from Ryan Baker's "MOOT"
 
 Activities
