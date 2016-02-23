@@ -17,7 +17,7 @@
 | 4    | 2/09 | Learning Theory                 | Wise 2015                               | **Online**; WG project ideas share-out  |
 | 5    | 2/16 | Hidden Assumptions              | Knight 2014                             | **Online**                          |
 | 6    | 2/23 | Educational Data Mining         | Scheuer 2012; Baker 2009                | **Online**; SIG and WG signup due   |
-| 7    | 3/01 | Cases and Examples              |                                         | **Online**; V. Kovanovic guest lecture; Lighting talks  |
+| 7    | 3/01 | Cases and Examples              | Pick/share your own                                        | **Online**; V. Kovanovic guest lecture; Lighting talks  |
 | 8    | 3/08 | "Fun with Data" Hands-on        |                                         | **Online**; E. Wang guest lecture   |
 | 9    | 3/15 | SPRING BREAK; NO CLASS          |                                         |                                     |
 | 10   | 3/22 | SIG 1 Learning and Knowledge Growth                          |                                         |                                     |
@@ -35,6 +35,8 @@
 - [Week 2](https://meefen.github.io/la-spring16/slides/week2.html)
 - [Week 3](https://meefen.github.io/la-spring16/slides/week3.html)
 - [Week 4](https://meefen.github.io/la-spring16/slides/week4.html)
+- [Week 5](https://meefen.github.io/la-spring16/slides/week5.html)
+- [Week 6](https://meefen.github.io/la-spring16/slides/week6.html)
 
 ## Knowledge Forum
 
