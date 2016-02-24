@@ -148,6 +148,34 @@ title: false
 
 <div class="footer" style="margin-top:-0px;"><SPAN STYLE="font-size:60%">(<a href="http://www.slideshare.net/gsiemens/columbia-tc">Siemens, 2013</a>)</SPAN></div>
 
+
+Data Science?
+========================================
+
+<img src="imgs/Data_Science_VD.png">
+
+<div class="footer" style="margin-top:-0px;"><SPAN STYLE="font-size:60%"><a href="http://static1.squarespace.com/static/5150aec6e4b0e340ec52710a/t/51525c33e4b0b3e0d10f77ab/1364352052403/Data_Science_VD.png">source</a></SPAN></div>
+
+Statistics vs Data Mining
+========================================
+
+| Statistics                                       | Data Mining                                 |
+|--------------------------------------------------|---------------------------------------------|
+| Math is important                                | Yep, math is important                      |
+| Model-based (theoretical driven)                 | Ad hoc (for a particular purpose)           |
+| A method/model that should work prior to its use | Experimental, ongoing refinement            |
+| Rigor is key                                     | 'Adventurous' to some degree                |
+| Model is 'king'                                  | Criteria of picking features is key         |
+| Smaller data -- sample->population *inference*   | Large data -- could cover the population    |
+| Cleaner data                                     | Messy data -- data wrangling and cleansing  |
+| Numeric                                          | Various forms of data                       |
+| Confirmatory (mostly)                            | Exploratory (esp. with big dataset)         |
+| Generalization ability is important              | Model 'fit' is important                    |
+| Algorithms are less central                      | Algorithms are central                      |
+| Data--analyst interaction                        | Data--(super-)computer--analyst interaction |
+| Less likely to be real-time                      | Real-time in many cases                     |
+
+
 Week 7: Cases and Examples
 ========================================================
 

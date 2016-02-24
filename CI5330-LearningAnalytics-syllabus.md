@@ -298,6 +298,13 @@ Suggested Readings
 
 Activities: To be designed by SIG 4
 
+
+___
+
+## Other readings
+
+- Hand, D. (1999). Statistics and data mining: intersecting disciplines. ACM SIGKDD Explorations Newsletter, 1(1), 16–19. doi:10.1145/846170.846171
+
 ___
 
 ## Relevant University Policies
