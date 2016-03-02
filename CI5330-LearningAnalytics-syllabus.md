@@ -176,27 +176,26 @@ Activities
 
 Online activities:
 
-- Watch: [Tony Hirst's talk](https://www.youtube.com/watch?v=D6t4eztDveU#t=2182)
-- Readings
-  - [Data Fundamentals, Data Wrangling Handbook v0.1](http://datapatterns.readthedocs.org/en/latest/courses/index.html#data-fundamentals)
-  - (optional) Kandel, S., Heer, J., Plaisant, C., Kennedy, J., van Ham, F., Riche, N. H., … Buono, P. (2011). Research Directions in Data Wrangling: Visualizations and Transformations for Usable and Credible Data. Information Visualization Journal, 10(4), 271–288. Retrieved from http://vis.stanford.edu/papers/data-wrangling
-  - (optional) Clow, D. (2014). [Data wranglers: Human interpreters to help close the feedback loop](http://dl.acm.org/citation.cfm?id=2567603). In Proceedins of the Fourth International Conference on Learning Analytics And Knowledge - LAK ’14 (pp. 49–53). doi:10.1145/2567574.2567603
-- Install: [Data Science Studio (DSS)](http://www.dataiku.com/dss/trynow/)
+- Watch: [Tony Hirst's talk on data wrangling](https://www.youtube.com/watch?v=D6t4eztDveU#t=2182) (start from 3:25)
+- Hands-on of your choice
+	- Spreadsheets: [Data Carpentry](http://www.datacarpentry.org/spreadsheet-ecology-lesson/) or [Using a spreadsheet to clean up a dataset](https://datapatterns.readthedocs.org/en/latest/recipes/cleaning-data-with-spreadsheets.html)
+	- R: [Data Carpentry](http://www.datacarpentry.org/R-ecology/)  or [Data Wrangling with R](https://ramnathv.github.io/pycon2014-r/explore/README.html)
+	- [Data Science Studio](http://www.dataiku.com/dss/): [a video tutorial by Bodong](https://www.youtube.com/watch?v=uNYrjeoPFGU) and [more tutorials](http://doc.dataiku.com/dss/latest/tutorials/index.html)
+	- [Open Refine](http://openrefine.org/) - a powerful tool for working with messy data: [tutorials by Hirst](http://blog.ouseful.info/tag/openrefine-2/), and [many more](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources)
+    - [Overview](https://blog.overviewdocs.com/about/) - analysis of many many documents: [tutorials](https://blog.overviewdocs.com/help/)
 
-Tools and tutorials if you want to explore
+Readings (optional)
+  - Kandel, S., Heer, J., Plaisant, C., Kennedy, J., van Ham, F., Riche, N. H., … Buono, P. (2011). Research Directions in Data Wrangling: Visualizations and Transformations for Usable and Credible Data. Information Visualization Journal, 10(4), 271–288. Retrieved from http://vis.stanford.edu/papers/data-wrangling
+  - Clow, D. (2014). [Data wranglers: Human interpreters to help close the feedback loop](http://dl.acm.org/citation.cfm?id=2567603). In Proceedins of the Fourth International Conference on Learning Analytics And Knowledge - LAK ’14 (pp. 49–53). doi:10.1145/2567574.2567603
 
-- Spreadsheets ([tutorial](https://datapatterns.readthedocs.org/en/latest/recipes/cleaning-data-with-spreadsheets.html))
-- R ([tutorial](https://ramnathv.github.io/pycon2014-r/explore/README.html))
-- [Open Refine](http://openrefine.org/) ([tutorials](https://github.com/OpenRefine/OpenRefine/wiki/External-Resources), [more by Hirst](http://blog.ouseful.info/tag/openrefine-2/))
-- [Data Science Studio](http://www.dataiku.com/dss/) ([tutorials](http://doc.dataiku.com/dss/latest/tutorials/index.html))
+More tools
+
 - [Elastic](https://www.elastic.co/)
-- [Oinoi](http://oinoi.com/)
 - Tableau
-- [Overview](https://blog.overviewdocs.com/)
 
 Datasets
 
-- [http://labrosa.ee.columbia.edu/millionsong/lastfm](LastFM)
+- [LastFM](http://labrosa.ee.columbia.edu/millionsong/lastfm)
 - [StackExchange](https://archive.org/details/stackexchange)
 
 ### Week 9: Spring Break; NO CLASS
