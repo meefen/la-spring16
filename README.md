@@ -37,6 +37,8 @@
 - [Week 4](https://meefen.github.io/la-spring16/slides/week4.html)
 - [Week 5](https://meefen.github.io/la-spring16/slides/week5.html)
 - [Week 6](https://meefen.github.io/la-spring16/slides/week6.html)
+- [Week 7](https://meefen.github.io/la-spring16/slides/week7.html)
+- [Week 10](https://meefen.github.io/la-spring16/slides/SIG1.pdf)
 
 ## Knowledge Forum
 

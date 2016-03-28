@@ -207,6 +207,7 @@ Suggested Readings
 - Schwarz, C. V., Reiser, B. J., Davis, E. A., Kenyon, L., Acher, A., Fortus, D., Shwartz, Y., Hug, B., and Krajcik, J. (2009). Developing a learning progression for scientific modeling: Making scientific modeling accessible and meaningful for learners. Journal of Research in Science Teaching, 46(6):632–654.
 - Bull, S. and Kay, J. (2010). Open learner models. In Nkambou, R., Bordeau, J., and Miziguchi, R., editors, Advances in Intelligent Tutoring Systems, chapter 15, pages 318–338. Springer.
 - Desmarais, M. C., & Baker, R. S. J. d. (2011). A review of recent advances in learner and skill modeling in intelligent learning environments. User Modeling and User-Adapted Interaction, 22(1-2), 9–38. doi:10.1007/s11257-011-9106-8
+- Advisors, E. G. (2013). [Learning to adapt: Understanding the adaptive learning supplier landscape](http://tytonpartners.com/tyton-wp/wp-content/uploads/2015/01/Learning-to-Adapt_Supplier-Landscape.pdf). Tyton Partners.
 
 Activities: To be designed by SIG 1
 
@@ -241,10 +242,9 @@ Suggested Readings
 Activities: To be designed by SIG 3
 
 Suggested Tools
-- ManyEyes
-- LightSIDE
-- Coh-Metrix
-- [ProM](http://www.processmining.org/prom/start) - process mining
+- LightSIDE - [download](http://ankara.lti.cs.cmu.edu/side/), [manual](http://ankara.lti.cs.cmu.edu/side/LightSide_Researchers_Manual.pdf), [video](https://www.youtube.com/watch?v=ge3L1DXFHTA)
+- Coh-Metrix - [documentation](http://cohmetrix.com/documentation_indices.html)
+- `tm` package in R - [video](https://www.youtube.com/watch?v=lRTerj8fdY0)
 
 
 ### Week 13: Prediction and Intervention
