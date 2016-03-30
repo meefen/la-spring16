@@ -235,7 +235,7 @@ Suggested Readings
 - Rohrer, R., Ebert, D., and Sibert, J. (1998). The shape of Shakespeare: visualizing text using implicit surfaces. In Proceedings of IEEE Symposium on Information Visualization, pages 121–129. IEEE Comput. Soc.
 - Rose, C. P., Wang, Y.-C., Cui, Y., Arguello, J., Stegmann, K., Weinberger, A., and Fis- cher, F. (2008). Analyzing collaborative learning processes automatically: Exploiting the advances of computational linguistics in computer-supported collaborative learning. International Journal of Computer-Supported Collaborative Learning, 3(3):237–271.
 - Optional
-  - Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76.
+  - Shermis, M. D. (2014). State-of-the-art automated essay scoring: Competition, results, and future directions from a United States demonstration. Assessing Writing, 20, 53–76. doi:10.1016/j.asw.2013.04.001
   - Simsek, D., Buckingham Shum, S., Sandor, A., De Liddo, A., and Ferguson, R. (2013). Xip dashboard: visual analytics from automated rhetorical parsing of scientific metadiscourse. In 1st International Workshop on Discourse-Centric Learning Analytics.
   - [Trump to Shakespeare](http://www.infowetrust.com/trump/)
 
